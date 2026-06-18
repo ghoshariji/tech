@@ -1,4 +1,5 @@
 {
+  "name": "ims-inventory-frontend",
   "framework": "vite",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
